@@ -1,6 +1,6 @@
 # Reproducible-Research-in-R
 ## Adding files on GitHub the online way using GitHub UI
 
-### Go to file
+### Go add file
 ### click + button
-### Add file
+### create new file
