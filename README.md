@@ -20,3 +20,5 @@
 
 ## modified info in conclusion branch only remains in conclusion branch unless pushed to main branch
 ## if you add issues, you can classify by adding specific labels
+
+# add labels to the issue by clicking issue and add labels like Documentation
