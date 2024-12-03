@@ -19,9 +19,9 @@
 ## Create an issue
 
 # Branch
-click main
-add  branch name
-click create branch
-work on that newly created file
-modify the file
-push modification to main branch
+## click main
+## add  branch name
+## click create branch
+## work on that newly created file
+## modify the file
+## push modification to main branch
