@@ -59,3 +59,5 @@
 # Fork tidyverse
 go to open source
 create new fork
+
+use RStudio to push your repo to GitHub
