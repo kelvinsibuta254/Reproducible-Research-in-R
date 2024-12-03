@@ -2,5 +2,4 @@
 ## Adding files on GitHub the online way using GitHub UI
 
 ### Go add file
-### click + button
 ### create new file
